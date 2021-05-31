@@ -1,4 +1,4 @@
-<!-- These Are the Headings -->
+<!-- These Are the Headins -->
 <!-- Heading 1 -->
 
 # Heading 1
