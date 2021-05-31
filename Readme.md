@@ -1,7 +1,7 @@
 <!-- These Are the Headins -->
 <!-- Heading 1 -->
 
-# Heading 1232
+# Heading 1
 
 ## Heading 2
 
